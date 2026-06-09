@@ -1,3 +1,5 @@
+2.0.1 2026-06-09
+  - - Added a reference to https://doi.org/10.1016/j.jneumeth.2018.09.019
 2.0.0 2025-12-11
   - Updated naming scheme of virtually all files to be more in compliance with BIDS, and identical to sleep2 (doi:10.18112/openneuro.ds006163.v1.0.0).
   - The derivatives folder now also contains physio_prepro, like sleep2.
