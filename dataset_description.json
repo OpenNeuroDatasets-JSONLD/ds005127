@@ -21,5 +21,6 @@
         "https://doi.org/10.1016/j.jneumeth.2018.09.019"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds005127.v2.0.0",
-    "ReferencesAndLinks": []
+    "ReferencesAndLinks": [],
+    "HowToAcknowledge": "doi:10.1016/j.jneumeth.2018.09.019"
 }
