@@ -1,7 +1,6 @@
 {
     "Name": "AMRI 16-N-0031 sleep1",
     "BIDSVersion": "1.4.1",
-    "HEDVersion": "",
     "DatasetType": "raw",
     "License": "CC0",
     "Authors": [
@@ -10,7 +9,7 @@
         "de Zwart, Jacco A"
     ],
     "Acknowledgements": "n/a",
-    "HowToAcklowledge": "n/a",
+    "HowToAcknowledge": "https://doi.org/10.1016/j.jneumeth.2018.09.019",
     "Funding": [
         "NINDS/NIH intramural"
     ],
@@ -20,9 +19,5 @@
     "ReferenceAndLinks": [
         "https://doi.org/10.1016/j.jneumeth.2018.09.019"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005127.v2.0.1",
-    "ReferencesAndLinks": [
-        "doi:10.1016/j.jneumeth.2018.09.019"
-    ],
-    "HowToAcknowledge": "doi:10.1016/j.jneumeth.2018.09.019"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005127.v2.0.3"
 }
